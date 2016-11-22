@@ -2,6 +2,7 @@
 
 NCIX.com is running a contest where they state they've hidden 20 QR Codes inside their videos. This tool simply scrapes the latest uploaded video and searches for QR Codes by exporting one frame per second. It's relatively slow to run on my machine, however there are likely not that many videos.
 
+[Contest URL](http://www.ncix.com/article/Black-Friday-X-1-Million-Giveaway.htm)
 
 ##Codes from Videos
 
