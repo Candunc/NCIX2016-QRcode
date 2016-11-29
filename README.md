@@ -11,6 +11,8 @@ The Screenshots are located in the images folder, however for convenience the co
 * 6DA38 - [2016-11-21](https://www.youtube.com/watch?v=4bgXI3BALL8)
 * 4969D - [2016-11-21](https://www.youtube.com/watch?v=mRor7Z8pnkc)
 * A6828 - [2016-11-23](https://www.youtube.com/watch?v=zjeYgY9Ks1w)
-* 6CDA6 - [2016-11-23](https://www.youtube.com/watch?v=Usc7YqMiaNg)
+* 6CDA6 - [2016-11-24](https://www.youtube.com/watch?v=Usc7YqMiaNg)
+* BA267 - [2016-11-28](https://www.youtube.com/watch?v=cxsdUI7yvH0)
+* CA204 - [2016-11-29](https://www.youtube.com/watch?v=OzW7gw_V2ns)
 
-**4/20 Codes found, five videos scraped.**
+**6/20 Codes found, eight videos scraped.**
